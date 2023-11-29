@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  .container-00 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .titulo {
+    text-align: center;
+  }
+  
+#img-01 {
+    position: absolute;
+    right: 0;
+    width: 200px;
+    height: 100%;
+  }
+  .container-02 {
+    margin: 10px 0;
+    border: 1px solid gray;
+  }
+  
+  .container-03 {
+    margin: 10px 0;
+    border: 1px solid gray;
+  }
+  
+  .container-04 {
+    margin: 10px 0;
+    border: 1px solid gray;
+  }
+  p {
+    margin-bottom: 10px;
+  }
